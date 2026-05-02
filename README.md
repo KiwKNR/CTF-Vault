@@ -1,16 +1,3 @@
-[00-START-HERE.md](https://github.com/user-attachments/files/27297784/00-START-HERE.md)
-[00-START-HERE.md](https://github.com/user-attachments/files/27295688/00-START-HERE.md)
----
-tags: [ctf, moc, index]
-created: 2026-05-01
-phase: 1
----
----
-tags: [ctf, moc, index]
-created: 2026-05-01
-phase: 2
----
-
 # 🚩 CTF Master Vault — เริ่มต้นที่นี่
 
 > **Capture The Flag (CTF)** คือการแข่งขันด้านความปลอดภัยทางไซเบอร์ที่ผู้เล่นต้องหา "flag" (ข้อความรหัส เช่น `flag{...}`) ที่ซ่อนอยู่ในโจทย์ โดยใช้ทักษะการแฮก การวิเคราะห์ และการแก้ปัญหา
